@@ -1,0 +1,13 @@
+.rect {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: orangered;
+  // transform: translate(50px, 50px);
+  // transform: translate(100%, 100%);
+  // transform: rotate(-30deg);
+  // transform: skew(-30deg);
+  transform: scale(2, 1);
+  // transform-origin: top left;
+  transform-origin: center center;
+}

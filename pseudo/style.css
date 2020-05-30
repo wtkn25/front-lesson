@@ -12,12 +12,12 @@
   cursor: pointer;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
-  z-index: 1;
 }
 
 .btn.slide-bg {
   position: relative;
   overflow: hidden;
+  z-index: 1;
 }
 
 .btn.slide-bg::before {
